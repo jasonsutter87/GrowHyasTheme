@@ -3,6 +3,13 @@
   url = "https://github.com/h-enk/hyas"
   weight = 10
 
+[[main]]
+  name = "GitHub 2"
+  url = "https://github.com/h-enk/hyas"
+  weight = 30
+
+
+
 [[social]]
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/henkverlinde/"
