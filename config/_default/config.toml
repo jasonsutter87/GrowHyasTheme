@@ -1,4 +1,4 @@
-baseurl = "https://hyas.netlify.app/"
+baseurl = "https://hardcore-feynman-18349b.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -82,5 +82,3 @@ toLower = false
   [[related.indices]]
   name = "date"
   weight = 10
-
-
